@@ -16,7 +16,11 @@ Code editor is specifically meant to edit code. They provide you with various fe
 
 **Question 4:What are the steps to develop software using the C language?**
 
-*Ans:* 
+*Ans:* There are mainly two steps:
+
+**Step 1:** Create a Source file with extension (.c), where we can write all the logics required for doing a particular task.
+
+**Step 2:** Compile or build the Source file. First Compiler take the source code file and Errors cheacking process are done. Then if there are no errors are found in the source code then the source code goes to preprocessor and the preprocessor attach all header files code with our source code and generate an intermediate file and stores it as a file with extension (.i).After that this intermediate file converted into object code and stores it as a file with extension (.obj).Then the object code is given to the Linker. The Linker combines both the object code and specified header file code and generates an Executable file with a (.exe) extension.
 
 **Question 5:What is the latest version of C Language?**
 
@@ -34,7 +38,7 @@ System software is used for operating computer hardware.WhereasApplication softw
 
 **Question 8:How to convert a number from a decimal number system to a binary number system?**
 
-*Ans:* 
+*Ans:* There are mainly five steps:
 
 **Step 1:** Take decimal number as dividend.
 
