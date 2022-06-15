@@ -16,7 +16,7 @@ Code editor is specifically meant to edit code. They provide you with various fe
 
 **Question 4:What are the steps to develop software using the C language?**
 
-*Ans:*
+*Ans:* 
 
 **Question 5:What is the latest version of C Language?**
 
@@ -34,3 +34,14 @@ System software is used for operating computer hardware.WhereasApplication softw
 
 **Question 8:How to convert a number from a decimal number system to a binary number system?**
 
+*Ans:* 
+
+**Step 1:** Take decimal number as dividend.
+
+**Step 2:** Divide this number by 2. As 2 is base of binary number system so divisor here.
+
+**Step 3:** Store the remainder in an array. These remainderes mainly 0's and 1's. Because, we divide the number by 2.
+
+**Step 4:** Repeat the above two steps until the number is greater than zero.
+
+**Step 5:** Print the array in reverse order. This is equivalent binary number of given decimal number.
