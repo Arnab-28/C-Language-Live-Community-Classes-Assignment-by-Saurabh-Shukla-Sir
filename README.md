@@ -9,3 +9,9 @@ Ans: Computer is an electronic device and inside the computers RAM, ROM, Hard-Di
 Ans: The full form of IDE is Integrated Development Environment.It is a programming environment that contains a lot of things in a single package i.e. Code Editor, Compiler, Debugger.It is actually a software application that provides comprehensive facilities to the developers need to write or test software.'
 
 **Question 3:What is the difference between a text editor and a code editor?**
+
+Ans: Text editor is used to edit text files.Example of a text editor is Notepad.
+
+Code editor is specifically meant to edit code. They provide you with various features like auto indent, parenthesis matching, different colors for highlighting the variables, keywords, comments, pre-processor directives, strings, etc,suggestiones for syntax errors etc.Example of a text editor is Notepad++.
+
+**Question 4:What are the steps to develop software using the C language?**
