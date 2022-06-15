@@ -20,7 +20,7 @@ Code editor is specifically meant to edit code. They provide you with various fe
 
 **Question 5:What is the latest version of C Language?**
 
-*Ans:* The latest version of the C language is C17.
+*Ans:* The latest version of the C language is C17 released in 2018.
 
 **Question 6:Who developed C Language?**
 
@@ -28,4 +28,9 @@ Code editor is specifically meant to edit code. They provide you with various fe
 
 **Question 7:What is the difference between System and Application Software?**
 
-*Ans:* 
+*Ans:* System Software is the type of software which is the interface between application software and system. Whereas Application Software is the type of software which runs as per user request. It runs on the platform which is provide by system software.
+
+System software is used for operating computer hardware.WhereasApplication software is used by user to perform specific task such as playing music or movie, editing text file,open pictures etc.
+
+**Question 8:How to convert a number from a decimal number system to a binary number system?**
+
