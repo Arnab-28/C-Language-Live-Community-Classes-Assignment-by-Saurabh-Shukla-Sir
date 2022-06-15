@@ -20,4 +20,12 @@ Code editor is specifically meant to edit code. They provide you with various fe
 
 **Question 5:What is the latest version of C Language?**
 
+*Ans:* The latest version of the C language is C17.
+
+**Question 6:Who developed C Language?**
+
+*Ans:* C language developed by Dennis Ritchie in 1972 at AT&T (American Telephone & Telegraph) bell laboratories.
+
+**Question 7:What is the difference between System and Application Software?**
+
 *Ans:* 
